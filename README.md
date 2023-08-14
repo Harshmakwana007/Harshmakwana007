@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Harshmakwana007
-- 👀 I’m interested in Software Engineering and Web Application Pentesting
+- 👋 Hi, I’m @HarshMakwana
+- 👀 Looking for internships or entry level role in software developer or frontend developer...
 - 🌱 I’m currently learning Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on Full stack Development
 - 📫 How to reach me ...
